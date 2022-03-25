@@ -1,1 +1,0 @@
-# This file is used to navigate in only function projects
